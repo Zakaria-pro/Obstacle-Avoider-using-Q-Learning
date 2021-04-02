@@ -22,5 +22,4 @@ void distance(){
   Serial.print("La distance est :");
   Serial.print(dist);
   Serial.print("\n");
-  //return 0;
 }
