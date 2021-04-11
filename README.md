@@ -4,6 +4,7 @@ It's a robot car that learn to avoid obstacles from it's environement, we have u
 ## Used hardware : 
 ## step 1 : 
 * ### 2 DC Motor
+
 ![Screenshot](images/dcMotor.jpg)
 
 * ### L298N : driver of DC motors
