@@ -5,20 +5,9 @@ It's a robot car that learn to avoid obstacles from it's environement, we have u
 ## step 1 : 
 * ### 2 DC Motor
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
-</head>
-<body>
+
    <img src="./images/dcMotor.jpg"/>
-</div>
-        
-</body>
-</html>
+
 
 
 ![Screenshot](./images/dcMotor.jpg)
