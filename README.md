@@ -14,18 +14,12 @@ It's a robot car that learn to avoid obstacles from it's environement, we have u
   
 </head>
 <body>
-  <div style="border: 10px solid #ffffff">
-   <a href="https://zakaria-pro.github.io/my-eportfolio.github.io" target="_blank">
-      <img style="border-radius: 6px" src="./images/dcMotor.jpg"/>
-   </a>
+   <img src="./images/dcMotor.jpg"/>
 </div>
         
 </body>
 </html>
 
-<div>
-<img alt="DC Motor" src="./images/dcMotor.jpg"/>
-</div>
 
 ![Screenshot](./images/dcMotor.jpg)
 
