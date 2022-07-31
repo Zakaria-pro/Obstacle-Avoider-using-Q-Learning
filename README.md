@@ -6,9 +6,7 @@ It's a robot car that learn to avoid obstacles from it's environement, we have u
 * ### 2 DC Motor
 <foreignObject width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml">
-        <ul>
-            <li>text</li>
-        </ul>
+        <img src="./images/dcMotor.jpg"></img>
         <!-- Other embed HTML element/text into SVG -->
     </div>
 </foreignObject>
