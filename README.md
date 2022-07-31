@@ -4,10 +4,14 @@ It's a robot car that learn to avoid obstacles from it's environement, we have u
 ## Used hardware : 
 ## step 1 : 
 * ### 2 DC Motor
-
-
-   <img src="./images/dcMotor.jpg"/>
-
+<foreignObject width="100" height="100">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul>
+            <li>text</li>
+        </ul>
+        <!-- Other embed HTML element/text into SVG -->
+    </div>
+</foreignObject>
 
 
 ![Screenshot](./images/dcMotor.jpg)
