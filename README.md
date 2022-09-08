@@ -1,20 +1,11 @@
 # Avoinding Obstacles using Arduino & Q learning
 It's a robot car that learn to avoid obstacles from it's environement, we have used a Reinforcement Machine Learning algorithm called Q Learning. 
 
-```html
-<h2>Example of code</h2>
-
-<pre>
-    <div class="container">
-        <div class="block two first">
-            <h2>Your title</h2>
-            <div class="wrap">
-            //Your content
-            </div>
-        </div>
-    </div>
-</pre>
-```
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
 
 ## Used hardware : 
 ## step 1 : 
