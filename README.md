@@ -15,7 +15,7 @@ It's a robot car that learn to avoid obstacles from it's environement, we have u
 ![Screenshot](./images/dcMotor.jpg)
 
 * ### L298N : driver of DC motors
-![Screenshot](images/driver.jpg)
+![Screenshot](./images/driver.jpg)
 
 * ### 2 Cerle Wheels and 1 Spherical Wheel 
 ![Screenshot](images/wheels.jpg) ![Screenshot](images/spherical_wheel.jpg)
