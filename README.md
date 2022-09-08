@@ -1,21 +1,17 @@
 # Avoinding Obstacles using Arduino & Q learning
 It's a robot car that learn to avoid obstacles from it's environement, we have used a Reinforcement Machine Learning algorithm called Q Learning. 
 
-<table>
-    <tr>
-        <td>Foo</td>
-        <td>Foo</td>
-        <td>Foo</td>
-    </tr>
-</table>
 
+
+
+
+## Used hardware : 
 | Hardware  | DC Motors |
 | ------------- | ------------- |
 | Utility  | Content Cell  |
 | Image | Content Cell  |
 
-## Used hardware : 
-## step 1 : 
+
 * ### 2 DC Motor
 ![Screenshot](./Images/dcMotor.jpg)
 
@@ -31,7 +27,6 @@ It's a robot car that learn to avoid obstacles from it's environement, we have u
 * ### Power supply
 ![Screenshot](Images/uno.jpg)
 
-## step 2 :
 * ### Arduino Uno
 ![Screenshot](Images/uno.jpg)
 
