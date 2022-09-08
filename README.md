@@ -4,6 +4,8 @@ It's a robot car that learn to avoid obstacles from it's environement, we have u
 <table>
     <tr>
         <td>Foo</td>
+        <td>Foo</td>
+        <td>Foo</td>
     </tr>
 </table>
 
