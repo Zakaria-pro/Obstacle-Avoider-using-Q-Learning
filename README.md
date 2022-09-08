@@ -9,10 +9,10 @@ It's a robot car that learn to avoid obstacles from it's environement, we have u
     </tr>
 </table>
 
-| First Header  | Second Header |
+| Hardware  | DC Motors |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Utility  | Content Cell  |
+| Image | Content Cell  |
 
 ## Used hardware : 
 ## step 1 : 
