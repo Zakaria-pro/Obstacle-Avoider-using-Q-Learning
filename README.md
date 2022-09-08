@@ -10,7 +10,7 @@ It's a robot car that learn to avoid obstacles from it's environement, we have u
 ![Screenshot](./Images/driver.jpg)
 
 * ### 2 Cerle Wheels and 1 Spherical Wheel 
-![Screenshot](Images/wheels.jpg) ![Screenshot](images/spherical_wheel.jpg)
+![Screenshot](Images/wheels.jpg) ![Screenshot](Images/spherical_wheel.jpg)
 
 * ### Chassis 
 ![Screenshot](Images/chassis.jpg)
