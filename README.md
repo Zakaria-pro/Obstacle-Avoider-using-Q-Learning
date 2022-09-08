@@ -1,5 +1,6 @@
 # Avoinding Obstacles using Arduino & Q learning
-It's a robot car that learn to avoid obstacles from it's environement, we have used a Reinforcement Machine Learning algorithm called Q Learning. 
+
+The Project is a Robot car that learns to avoid obstacles from the environement. for that, we have used a Reinforcement Machine Learning algorithm called Q Learning. 
 
 
 
