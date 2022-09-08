@@ -9,7 +9,7 @@ It's a robot car that learn to avoid obstacles from it's environement, we have u
 | Hardware  | DC Motors |
 | ------------- | ------------- |
 | Utility  | Content Cell  |
-| Image | Content Cell  |
+| Image | ![Screenshot](./Images/dcMotor.jpg)  |
 
 
 * ### 2 DC Motor
