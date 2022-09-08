@@ -12,36 +12,36 @@ It's a robot car that learn to avoid obstacles from it's environement, we have u
 </foreignObject>
 
 
-![Screenshot](./images/dcMotor.jpg)
+![Screenshot](./Images/dcMotor.jpg)
 
 * ### L298N : driver of DC motors
-![Screenshot](./images/driver.jpg)
+![Screenshot](./Images/driver.jpg)
 
 * ### 2 Cerle Wheels and 1 Spherical Wheel 
-![Screenshot](images/wheels.jpg) ![Screenshot](images/spherical_wheel.jpg)
+![Screenshot](Images/wheels.jpg) ![Screenshot](images/spherical_wheel.jpg)
 
 * ### Chassis 
-![Screenshot](images/chassis.jpg)
+![Screenshot](Images/chassis.jpg)
 
 * ### Power supply
-![Screenshot](images/uno.jpg)
+![Screenshot](Images/uno.jpg)
 
 ## step 2 :
 * ### Arduino Uno
-![Screenshot](images/uno.jpg)
+![Screenshot](Images/uno.jpg)
 
 * ### Sensor shield V5.0 : provides a convenient way to interface to Sensors
-![Screenshot](images/sensor_shield.png)
+![Screenshot](Images/sensor_shield.png)
  
 * ### Bluetooth module : Debuging code
-![Screenshot](images/bluetooth.png)
+![Screenshot](Images/bluetooth.png)
 
 ## step 3 :
 * ### Servo motor : turning the HC-SR04 Sensor
-![Screenshot](images/servoMotor.jpg)
+![Screenshot](Images/servoMotor.jpg)
 
 * ### HC-SR04 Ultrasonic Sensor : calculating distance
-![Screenshot](images/ultrasonic.jpg)
+![Screenshot](Images/ultrasonic.jpg)
 
 
 
